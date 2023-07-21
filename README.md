@@ -1,2 +1,2 @@
 # README
-short introduction of me myself and i
+***Hey there, I'm a passionate learner and this my programming playground.***
